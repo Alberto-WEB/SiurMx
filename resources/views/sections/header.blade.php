@@ -5,15 +5,12 @@
     </div>
     
     
-    <div class="container">      
+    <div class="container-fliud">      
         <div class="row space-100">
-          <div class="col-lg-6 col-md-12 col-xs-12">
-            <div class="contents">
-              <h2 class="head-title">Servicios Fiscales y Tecnologicos.</h2>
-              <p>Siur nace con el objetivo de solucionar las necesidades de las empresas y de los emprendedores, es por eso que nos enfocamos en solucionar las necesidades de tu negocio con ayuda de los servicios Fiscales y de Tecnologías de la información.</p>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-12 col-xs-12 p-0">
+
+          <br><br>
+          
+          <div class="col-lg-12 col-md-12 col-xs-12">
             <div class="intro-img"></div>
                       <!--Carousel Wrapper-->
             <div id="carousel-example-1z" class="carousel slide carousel-fade" data-ride="carousel">
@@ -28,21 +25,36 @@
               <div class="carousel-inner" role="listbox">
                 <!--First slide-->
                 <div class="carousel-item active">
-                  <img class="d-block w-100" src="img/slider/fiscal.png"
+                  <img class="d-block w-100 h-100" src="https://images4.alphacoders.com/699/699201.jpg" 
                     alt="First slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h3>Capitan America</h3>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, optio. Tempora rem dolor magnam, tenetur harum delectus cumque vitae, ea laborum iure cupiditate illum ipsam. Ratione fuga quidem sint voluptas.</p>
+                      <span class="btn btn-sm btn-outline-primary">Learn More</span>
+                    </div>
                 </div>
                 <!--/First slide-->
                 <!--Third slide-->
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="img/slider/tics4.png"
+                  <img class="d-block w-100" src="https://images4.alphacoders.com/813/813003.jpg"
                     alt="Second slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h3>Darth Vader</h3>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, optio. Tempora rem dolor magnam, tenetur harum delectus cumque vitae, ea laborum iure cupiditate illum ipsam. Ratione fuga quidem sint voluptas.</p>
+                      <span class="btn btn-sm btn-outline-primary">Learn More</span>
+                    </div>
                 </div>
                 <!--/Third slide-->
     
                 <!--Third slide-->
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="img/slider/tics3.png"
+                  <img class="d-block w-100" src="https://images3.alphacoders.com/699/699193.jpg"
                     alt="Third slide">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h3 class="text-white">Vision</h3>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, optio. Tempora rem dolor magnam, tenetur harum delectus cumque vitae, ea laborum iure cupiditate illum ipsam. Ratione fuga quidem sint voluptas.</p>
+                      <span class="btn btn-sm btn-outline-primary">Learn More</span>
+                    </div>
                 </div>
                 <!--/Third slide-->
               </div>

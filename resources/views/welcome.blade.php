@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="{{ asset('css/magnific-popup.css') }}">
     <link rel="stylesheet" href="{{ asset('css/nivo-lightbox.css') }}">
     <link rel="stylesheet" href="{{ asset('css/modal.css') }}">  
-    <link rel="stylesheet" href="{{ asset('css/main.css') }}">  
+    <link rel="stylesheet" href="{{ asset('css/main.css') }}">
     <link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
     
   </head>
