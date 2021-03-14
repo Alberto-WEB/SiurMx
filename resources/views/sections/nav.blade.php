@@ -19,6 +19,9 @@
             <a class="nav-link page-scroll" href="#team">Nuestro Equipo</a>
           </li>  
           <li class="nav-item">
+            <a class="nav-link page-scroll" href="#">Blog</a>
+          </li>  
+          <li class="nav-item">
             <a class="nav-link page-scroll" href="#contact">Cantactanos</a>
           </li> 
           
